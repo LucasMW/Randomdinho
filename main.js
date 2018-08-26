@@ -12,7 +12,8 @@
         "https://images2.minutemediacdn.com/image/upload/c_scale,w_912,h_516,c_fill,g_auto/shape/cover/sport/58d145ec59c8d3a8ac000027.jpeg",
         "https://assets.naointendo.com.br/uploads/post/media/19838/open_graph_6fbadc8e-d54c-4845-8516-057f71d0ba31.jpg",
         "http://s.glbimg.com/es/ge/f/original/2013/04/12/ronaldinho_musica_div.jpg_95.jpg",
-        "http://s2.glbimg.com/RsEbtuo9J1CqtfLLuFZIipc6sU8=/smart/s.glbimg.com/es/ge/f/original/2016/02/04/ronaldinho4.png"
+        "http://s2.glbimg.com/RsEbtuo9J1CqtfLLuFZIipc6sU8=/smart/s.glbimg.com/es/ge/f/original/2016/02/04/ronaldinho4.png",
+        "https://scontent.fcgh3-1.fna.fbcdn.net/v/t1.0-9/40103321_1084759111679278_1866955814657327104_n.jpg?_nc_cat=1&oh=783bac5ee46425d432bc629327488ff0&oe=5C01FE12"
       ];
       var rand = Math.floor(Math.random() * __Images__.length);
       var object = document.getElementsByTagName("img");
